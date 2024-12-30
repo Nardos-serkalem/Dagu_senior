@@ -185,5 +185,4 @@ export {
   deleteBooking,
   getUpcomingBookings,
   getBookingStats,
-  getBookingStats
 };
