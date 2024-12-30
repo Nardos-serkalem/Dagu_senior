@@ -184,5 +184,5 @@ export {
   updateBooking,
   deleteBooking,
   getUpcomingBookings,
-  getBookingStats,
+  getBookingStats
 };
